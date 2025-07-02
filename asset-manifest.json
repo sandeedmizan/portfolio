@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.086d6c8d.css",
-    "main.js": "/portfolio/static/js/main.49696d56.js",
+    "main.js": "/portfolio/static/js/main.dc3f8e26.js",
     "static/js/453.acca0757.chunk.js": "/portfolio/static/js/453.acca0757.chunk.js",
     "static/media/Mona-Sans-UltraLightItalic.ttf": "/portfolio/static/media/Mona-Sans-UltraLightItalic.cc4b7e24d7a37b5edf6b.ttf",
     "static/media/Mona-Sans-RegularItalic.ttf": "/portfolio/static/media/Mona-Sans-RegularItalic.e09b88fd559aae396a41.ttf",
@@ -18,11 +18,11 @@
     "static/media/Mona-Sans-Black.ttf": "/portfolio/static/media/Mona-Sans-Black.68aaf36a38e5c0d777a8.ttf",
     "index.html": "/portfolio/index.html",
     "main.086d6c8d.css.map": "/portfolio/static/css/main.086d6c8d.css.map",
-    "main.49696d56.js.map": "/portfolio/static/js/main.49696d56.js.map",
+    "main.dc3f8e26.js.map": "/portfolio/static/js/main.dc3f8e26.js.map",
     "453.acca0757.chunk.js.map": "/portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.086d6c8d.css",
-    "static/js/main.49696d56.js"
+    "static/js/main.dc3f8e26.js"
   ]
 }
